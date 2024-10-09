@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/app/service/service.module.css"],"sourcesContent":[".main{\r\n    color: black;\r\n    background-color: aqua;\r\n    text-align: center;\r\n    font-size: 45px;\r\n}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
